@@ -1,5 +1,6 @@
 #pip install pyChatGPT==0.4.3.3 or > 0.4.3.3
 #pip install streamlit
+# pip install PyPDF2
 
 import streamlit as st
 from PyPDF2 import PdfReader
